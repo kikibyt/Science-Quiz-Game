@@ -2,6 +2,10 @@
 
 
 
+
+https://github.com/user-attachments/assets/8587a96a-1b31-4c3b-a96d-40fa2d743957
+
+
 An interactive desktop quiz game built entirely with Python. Designed for a fun and educational experience, this game tests knowledge across multiple subjects including Science, Geography, Physics, Chemistry, Biology, Computer Science, and Agriculture — all wrapped in an engaging interface with sound effects, background music, animated coins, and even an intro video.
 
 ---
